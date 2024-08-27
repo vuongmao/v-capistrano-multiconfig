@@ -1,0 +1,1 @@
+# v-capistrano-multiconfig
